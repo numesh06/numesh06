@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is FNU Nandhiniumesh and I'm a ..., from ....</h2>
+<h2 align="left">Hey 👋! I'm Nandhiniumesh, a Cybersecurity Grad Student — Exploring DevSecOps, CI/CD Security, and Cloud Hardening.</h2>
 
 ###
 
